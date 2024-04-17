@@ -2,6 +2,7 @@ Olá eu sou a Carol, funcionária pública e designer, me aventurando no mundo d
 <div style="display: inline_block"><br>
   <img align="center" alt="Carol-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Carol-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Carol-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 </div>
 
 ##
