@@ -1,4 +1,4 @@
-Olá eu sou a Carol, funcionária pública e designer, me aventurando no mundo da programação 👋
+Olá eu sou a Carol, funcionária pública e designer, me aventurando no mundo da programação, estudando Dart e Flutter 👋
 <div style="display: inline_block"><br>
   <img align="center" alt="Carol-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Carol-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
